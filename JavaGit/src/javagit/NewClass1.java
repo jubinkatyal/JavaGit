@@ -11,4 +11,6 @@ package javagit;
  */
 public class NewClass1 {
     
+   
+    
 }
